@@ -1,0 +1,12 @@
+{
+  "name": "codespace-teams",
+  "version": "1.0.0",
+  "description": "Team integration codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
